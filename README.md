@@ -1,2 +1,2 @@
-# web-project-2
-Coaching center website
+# Python project
+Speech to text convertor project
